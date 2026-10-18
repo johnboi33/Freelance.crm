@@ -1,0 +1,6 @@
+{
+  "name": "Emperor CRM",
+  "description": "High-velocity pipeline and client relationship management for top-tier freelancers and operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
